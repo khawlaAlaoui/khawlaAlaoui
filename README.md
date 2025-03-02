@@ -1,6 +1,5 @@
 ## Salaam 👋 I'm Khaoula Alaoui Belghiti 🇲🇦✨
 
-<!--
 ## 🚀 Who Am I?
 I'm a **PhD researcher in AI & Computer Vision** at **ESI, Morocco** 🇲🇦, focusing on **Neurology, MS progression analysis, and efficient AI**. My research involves **synthetic MS MRI scan generation**. I also work at **TGR**, developing AI-driven tools to the public sector.
 
@@ -26,4 +25,3 @@ Beyond research, I'm an active member of the **Atlasia community** as a **Commun
 **Research is to see what everybody else has seen, and to think what nobody else has thought** by Albert Szent-Gyorgyi
 
 🚀 Bismillah! Let's make things happen! 🎉
--->
