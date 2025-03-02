@@ -1,16 +1,29 @@
-## Hi there 👋
+## Salaam 👋 I'm Khaoula Alaoui Belghiti 🇲🇦✨
 
 <!--
-**khawlaAlaoui/khawlaAlaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Who Am I?
+I'm a **PhD researcher in AI & Computer Vision** at **ESI, Morocco** 🇲🇦, focusing on **Neurology, MS progression analysis, and efficient AI**. My research involves **synthetic MS MRI scan generation**. I also work at **TGR**, developing AI-driven tools to the public sector.
 
-Here are some ideas to get you started:
+Beyond research, I'm an active member of the **Atlasia community** as a **Community Lead**, part of **Morocco Valley**, and an alumna of the **2024 Spark Academy**, while continuing as a member this year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎯 Research & AI Interests
+- **Computer Vision Tasks** (Generation, Segmentation & Classification)
+- **VLMs** (Multimodality)
+- **Medical Imaging** (MS lesion segmentation, synthetic MRI generation)
+- **Literature Reviews (LR)** 
+
+## 🔬 Current Research Projects
+- 🏥 **AI for MS Diagnosis**: Enhancing lesion detection using Attention based Networks.
+- 🤖 **Darija LLMs**: Exploring AI for Darija with *Atlasia Community*.
+
+## 🌍 Let's Connect – "Open to Collaborations"
+- 📝 [LinkedIn](https://www.linkedin.com/in/khaoula-a-19ab42175/)  
+- 🐦 [Twitter/X](https://x.com/BelghitiKhaoula)
+- 📧 Email: **khaoula.alaoui-belghiti@esi.ac.ma**
+---
+💡 *"Is it ethical? Is it nice? Will it hurt someone?" – My 2025 life philosophy.*
+
+**Research is to see what everybody else has seen, and to think what nobody else has thought** by Albert Szent-Gyorgyi
+
+🚀 Bismillah! Let's make things happen! 🎉
 -->
